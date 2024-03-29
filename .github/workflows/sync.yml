@@ -16,3 +16,10 @@ jobs:
           owner: Klipper3d
           base: master
           head: master
+
+      - uses: tgymnich/fork-sync@v1.9
+        with:
+          owner: cloakedcode
+          base: master
+          head: work-annex-probe
+          
