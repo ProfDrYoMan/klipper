@@ -13,6 +13,6 @@ jobs:
     steps:
       - uses: tgymnich/fork-sync@v1.9
         with:
-          owner: llvm
+          owner: Klipper3d
           base: master
           head: master
