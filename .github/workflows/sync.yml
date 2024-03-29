@@ -16,10 +16,12 @@ jobs:
           owner: Klipper3d
           base: master
           head: master
+          retries: 1
 
       - uses: tgymnich/fork-sync@v1.9
         with:
           owner: cloakedcode
           base: master
           head: work-annex-probe
+          retries: 1
           
