@@ -2,7 +2,7 @@ name: Sync Fork
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # every 30 minutes
+    - cron: '*/60 * * * *'
   workflow_dispatch: # on button click
 
 jobs:
@@ -17,11 +17,3 @@ jobs:
           base: master
           head: master
           retries: 1
-
-      - uses: tgymnich/fork-sync@v1.9
-        with:
-          owner: cloakedcode
-          base: master
-          head: work-annex-probe
-          retries: 1
-          
