@@ -16,4 +16,4 @@ jobs:
           owner: Klipper3d
           base: master
           head: master
-          retries: 1
+          retries: 0
