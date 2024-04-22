@@ -6,6 +6,12 @@
 
 ### Do you? If not, check the code! ###
 
+Links to relevant documentation:
+* [Dockable Probe](docs/Dockable_Probe.md)
+* [Config Reference](docs/Config_Reference.md#dockable_probe)
+* [G-Codes](docs/G-Codes.md#dockable_probe)
+* [Status Reference](docs/Status_Reference.md#dockable_probe)
+
 ---
 
 Welcome to the Klipper project!
