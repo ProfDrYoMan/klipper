@@ -1,3 +1,19 @@
+# Dockable Probe Klipper #
+
+### This is a 100% fork of [original klipper](https://github.com/Klipper3d/klipper) with only [PR #6247](https://github.com/Klipper3d/klipper/pull/6247) applied. ###
+
+### You need to trust me since this is running on your machine! ###
+
+### Do you? If not, check the code! ###
+
+Links to relevant documentation:
+* [Dockable Probe](docs/Dockable_Probe.md)
+* [Config Reference](docs/Config_Reference.md#dockable_probe)
+* [G-Codes](docs/G-Codes.md#dockable_probe)
+* [Status Reference](docs/Status_Reference.md#dockable_probe)
+
+---
+
 Welcome to the Klipper project!
 
 [![Klipper](docs/img/klipper-logo-small.png)](https://www.klipper3d.org/)
